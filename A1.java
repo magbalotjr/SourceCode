@@ -27,5 +27,7 @@ public class A1{
             System.out.print(a[i]+",");
         }
         System.out.print(a[n]);
+		//fuckmepls
+		
     }
 }
